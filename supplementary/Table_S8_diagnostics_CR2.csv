@@ -1,0 +1,4 @@
+"Forest-value domain","N","Model status","|Standardized residual| > 3, n (%)","Maximum |standardized residual|","Regional contrasts compared","Regional contrasts with same inference, n","Individual coefficients compared","Individual coefficients with same direction, n","Individual direction changes, n","Individual coefficients with same inference, n","Individual inference changes, n"
+"Socio-cultural",12460,"Converged; nonsingular","168 (1.35%)","4.44",4,4,20,20,0,16,4
+"Provisioning",12460,"Converged; nonsingular","1 (0.01%)","3.18",4,4,20,18,2,16,4
+"Regulating/supporting",12460,"Converged; nonsingular","228 (1.83%)","5.27",4,4,20,20,0,18,2

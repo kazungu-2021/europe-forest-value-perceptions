@@ -1,0 +1,4 @@
+"Forest-value domain","Individual coefficients compared","Same direction, n","Same CI conclusion, n","Direction changes, n","CI-conclusion changes, n","Maximum absolute coefficient difference","Macro-region ICC, %","Country ICC, %","Combined contextual ICC, %"
+"Socio-cultural",20,20,20,0,0,0.0025,0,2.19,2.19
+"Provisioning",20,20,20,0,0,9e-04,7.48,13.74,21.22
+"Regulating/supporting",20,20,20,0,0,0.0029,0.18,2.43,2.6

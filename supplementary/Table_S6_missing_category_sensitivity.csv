@@ -1,0 +1,5 @@
+"Forest-value domain","Coefficients compared","Same direction, n","Direction changes, n","Same CI conclusion, n","CI-conclusion changes, n","Maximum absolute coefficient difference"
+"Socio-cultural",22,21,1,19,3,0.086
+"Provisioning",22,20,2,18,4,0.0907
+"Regulating/supporting",22,20,2,21,1,0.0794
+"Overall",66,61,5,58,8,0.0907
